@@ -16,6 +16,14 @@ p.small {
     font-size: 16px;
 }
 
+#profile{
+  border-radius: 50%;
+}
+
+.portfolio-image{
+  height: 20em!important;
+}
+
 a,
 a:hover,
 a:focus,
